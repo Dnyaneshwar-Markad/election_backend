@@ -1,0 +1,6 @@
+psycopg[binary]
+fastapi
+uvicorn[standard]
+jose[cryptograpy]
+pydantic
+python-multipart
